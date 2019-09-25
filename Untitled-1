@@ -1,0 +1,10 @@
+display: grid;
+    grid-template-rows: 20px 1fr 50px 1fr 50px 1fr;
+    grid-template-columns: 50px 50px 50px 50px;
+    grid-template-areas: 
+    "nav nav nav nav"
+    "feature1 feature1 feature1 feature1"
+    "img1 img1 img1 img1"
+    "feature2 feature2 feature2 feature2"
+    "img2 img2 img2 img2"
+    "footer footer footer footer";
